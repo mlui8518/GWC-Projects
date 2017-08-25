@@ -1,0 +1,27 @@
+h1 {
+  color:purple;
+  text-align: center;
+}
+body {
+  background-image: url("bg.jpg");
+  background-size: 1500px 640px;
+  background-repeat:repeat-x;
+  background-repeat: repeat-y;
+}
+html {border-style:double}
+#contact {
+  color:white;
+  text-align: center;
+}
+#head1, #head2, #head3 {
+  color:blue;
+  text-align: left;
+}
+p {
+  color:white;
+  text-align: left;
+}
+#head0 {
+  color:blue;
+  font-size:50px;
+}
